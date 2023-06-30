@@ -1,0 +1,13 @@
+name: PTT_SOT_spanish
+title: PTT_SOT_spanish
+username:
+account: negatoscope
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9388871
+bundleId: 7405516
+url: https://negatoscope.shinyapps.io/PTT_SOT_spanish/
+when: 1688119901.07964
+lastSyncTime: 1688119901.07965
+asMultiple: FALSE
+asStatic: FALSE
