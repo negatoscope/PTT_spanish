@@ -1,6 +1,6 @@
 # Perspect Taking Test (Spanish version)
 
-This repository contains a Shiny App of the Spatial Orientation Test (Hegarty, 2004) similar to its computerized version in english (Friedman et al. 2020). 
+This repository contains a Shiny App of the Spatial Orientation Test (Hegarty, 2004) similar to its computerized version in English (Friedman et al. 2020). 
 
 This app is fully functional, however the script needs still some work. As of now, it is not intended for remote (online) use.
 
